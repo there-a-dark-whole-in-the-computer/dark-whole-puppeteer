@@ -1,0 +1,16 @@
+{
+  "name": "kadeem-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "dislike": "node src/dislike-bot.js",
+    "ban-checker": "node src/ban-checker.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer-core": "^10.2.0"
+  }
+}
